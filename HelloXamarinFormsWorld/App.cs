@@ -10,7 +10,7 @@ namespace HelloXamarinFormsWorld
                    {
                        Content = new Label
                                  {
-                                     Text = "Hello, Forms !",
+                                     Text = "Helle Duong Thanh Song . . . This is a Robot Xamarin",
                                      VerticalOptions = LayoutOptions.CenterAndExpand,
                                      HorizontalOptions = LayoutOptions.CenterAndExpand,
                                  },
